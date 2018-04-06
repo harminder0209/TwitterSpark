@@ -1,0 +1,13 @@
+[0m[[0minfo[0m] [0mPackaging /home/harminder/sparkDEemo/sparkTest/target/scala-2.10/scalasparkdemo_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	com/basics/app1[0m
+[0m[[0mdebug[0m] [0m	  /home/harminder/sparkDEemo/sparkTest/target/scala-2.10/classes/com/basics/app1[0m
+[0m[[0mdebug[0m] [0m	com/basics[0m
+[0m[[0mdebug[0m] [0m	  /home/harminder/sparkDEemo/sparkTest/target/scala-2.10/classes/com/basics[0m
+[0m[[0mdebug[0m] [0m	com/basics/app1/ScalaWordCount.class[0m
+[0m[[0mdebug[0m] [0m	  /home/harminder/sparkDEemo/sparkTest/target/scala-2.10/classes/com/basics/app1/ScalaWordCount.class[0m
+[0m[[0mdebug[0m] [0m	com/basics/app1/ScalaWordCount$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/harminder/sparkDEemo/sparkTest/target/scala-2.10/classes/com/basics/app1/ScalaWordCount$.class[0m
+[0m[[0mdebug[0m] [0m	com[0m
+[0m[[0mdebug[0m] [0m	  /home/harminder/sparkDEemo/sparkTest/target/scala-2.10/classes/com[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

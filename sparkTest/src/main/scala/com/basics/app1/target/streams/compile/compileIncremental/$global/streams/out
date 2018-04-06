@@ -1,0 +1,66 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(/home/harminder/sparkDEemo/sparkTest/src/main/scala/com/basics/app1/test.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/home/harminder/sparkDEemo/sparkTest/src/main/scala/com/basics/app1/test.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/harminder/sparkDEemo/sparkTest/src/main/scala/com/basics/app1/test.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/harminder/sparkDEemo/sparkTest/src/main/scala/com/basics/app1/test.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /home/harminder/sparkDEemo/sparkTest/src/main/scala/com/basics/app1/target/scala-2.10/classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.13:component from component compiler for Scala 2.10.6[0m
+[0m[[0minfo[0m] [0m'compiler-interface' not yet compiled for Scala 2.10.6. Compiling...[0m
+[0m[[0mdebug[0m] [0mPlain interface to Scala compiler 2.10.6  with arguments: [0m
+[0m[[0mdebug[0m] [0m	-nowarn[0m
+[0m[[0mdebug[0m] [0m	-d[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_c0382013[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.111-1.b15.el7_2.x86_64/jre/lib/resources.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.111-1.b15.el7_2.x86_64/jre/lib/rt.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.111-1.b15.el7_2.x86_64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.111-1.b15.el7_2.x86_64/jre/lib/jsse.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.111-1.b15.el7_2.x86_64/jre/lib/jce.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.111-1.b15.el7_2.x86_64/jre/lib/charsets.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.111-1.b15.el7_2.x86_64/jre/lib/jfr.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.111-1.b15.el7_2.x86_64/jre/classes:/home/harminder/.sbt/boot/scala-2.10.6/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/harminder/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.13/xsbti/interface-0.13.13.jar:/tmp/sbt_13709d8/srcs/org.scala-sbt/compiler-interface/compiler-interface-0.13.13-sources.jar:/home/harminder/.sbt/boot/scala-2.10.6/lib/scala-compiler.jar:/home/harminder/.sbt/boot/scala-2.10.6/lib/scala-reflect.jar:/home/harminder/.sbt/boot/scala-2.10.6/lib/jline.jar:/home/harminder/.sbt/boot/scala-2.10.6/lib/jansi.jar[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_fa78c09e/xsbt/API.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_fa78c09e/xsbt/Analyzer.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_fa78c09e/xsbt/Command.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_fa78c09e/xsbt/Compat.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_fa78c09e/xsbt/CompilerInterface.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_fa78c09e/xsbt/ConsoleInterface.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_fa78c09e/xsbt/DelegatingReporter.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_fa78c09e/xsbt/Dependency.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_fa78c09e/xsbt/ExtractAPI.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_fa78c09e/xsbt/ExtractUsedNames.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_fa78c09e/xsbt/GlobalHelpers.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_fa78c09e/xsbt/LocateClassFile.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_fa78c09e/xsbt/Log.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_fa78c09e/xsbt/Message.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_fa78c09e/xsbt/ScaladocInterface.scala[0m
+[0m[[0minfo[0m] [0m  Compilation completed in 11.328 s[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.13:component from component compiler for Scala 2.10.6[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 100fdd0e, interfacing (CompilerInterface) with Scala compiler version 2.10.6[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.111-1.b15.el7_2.x86_64/jre/lib/resources.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.111-1.b15.el7_2.x86_64/jre/lib/rt.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.111-1.b15.el7_2.x86_64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.111-1.b15.el7_2.x86_64/jre/lib/jsse.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.111-1.b15.el7_2.x86_64/jre/lib/jce.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.111-1.b15.el7_2.x86_64/jre/lib/charsets.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.111-1.b15.el7_2.x86_64/jre/lib/jfr.jar:/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.111-1.b15.el7_2.x86_64/jre/classes:/home/harminder/.sbt/boot/scala-2.10.6/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/harminder/sparkDEemo/sparkTest/src/main/scala/com/basics/app1/target/scala-2.10/classes[0m
+[0m[[31merror[0m] [0m/home/harminder/sparkDEemo/sparkTest/src/main/scala/com/basics/app1/test.scala:4: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.{SparkConf, SparkContext}[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/home/harminder/sparkDEemo/sparkTest/src/main/scala/com/basics/app1/test.scala:6: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.spark.SparkContext._[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/home/harminder/sparkDEemo/sparkTest/src/main/scala/com/basics/app1/test.scala:12: not found: type SparkConf[0m
+[0m[[31merror[0m] [0mval sparkConf = new SparkConf().setAppName("Spark Word Count")[0m
+[0m[[31merror[0m] [0m                    ^[0m
+[0m[[31merror[0m] [0m/home/harminder/sparkDEemo/sparkTest/src/main/scala/com/basics/app1/test.scala:13: not found: type SparkContext[0m
+[0m[[31merror[0m] [0m val sc = new SparkContext(sparkConf)[0m
+[0m[[31merror[0m] [0m              ^[0m
+[0m[[31merror[0m] [0mfour errors found[0m
+[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
+[0m[[31merror[0m] [0m(compile:[31mcompileIncremental[0m) Compilation failed[0m
